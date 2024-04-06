@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/moviebrowser/static/css/main.3292250f.css",
+    "main.js": "/moviebrowser/static/js/main.6864db63.js",
+    "index.html": "/moviebrowser/index.html",
+    "static/media/search.svg": "/moviebrowser/static/media/search.698d06e081614daacc022fcc3bf50bb8.svg",
+    "main.3292250f.css.map": "/moviebrowser/static/css/main.3292250f.css.map",
+    "main.6864db63.js.map": "/moviebrowser/static/js/main.6864db63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3292250f.css",
+    "static/js/main.6864db63.js"
+  ]
+}
